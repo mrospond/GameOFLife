@@ -1,0 +1,1 @@
+java -jar GameOfLife.jar ::trzeba dodac konfig uruchomieniowy, sciezke do javafx
