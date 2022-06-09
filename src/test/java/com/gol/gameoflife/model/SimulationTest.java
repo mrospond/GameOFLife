@@ -1,5 +1,6 @@
 package com.gol.gameoflife.model;
 
+import com.gol.gameoflife.controller.Simulation;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

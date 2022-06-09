@@ -2,8 +2,10 @@
     Klasa całej symulacji. Zawiera planszę oraz zasady gry.
  */
 
-package com.gol.gameoflife.model;
+package com.gol.gameoflife.controller;
 
+
+import com.gol.gameoflife.model.Board;
 
 public class Simulation {
     private Board board;

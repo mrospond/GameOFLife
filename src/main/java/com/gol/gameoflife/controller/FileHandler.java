@@ -2,7 +2,8 @@
  Klasa obsługująca odczyt i zapis stanu planszy do plików.
  */
 
-package com.gol.gameoflife.model;
+package com.gol.gameoflife.controller;
+import com.gol.gameoflife.model.Board;
 import com.gol.gameoflife.view.AlertBox;
 
 import java.io.*;

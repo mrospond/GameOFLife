@@ -4,9 +4,6 @@
 
 package com.gol.gameoflife.controller;
 
-import com.gol.gameoflife.model.FileHandler;
-import com.gol.gameoflife.model.Simulation;
-
 public class Controller {
     private Simulation sim;
     private FileHandler fileHandler;
